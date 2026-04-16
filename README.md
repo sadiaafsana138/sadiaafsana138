@@ -3,7 +3,7 @@
 
   # Hi there, I'm Sadia 👋
 
-  *Data Analyst · ML Enthusiast · Dhaka, Bangladesh*
+  *Data Analyst · ML Enthusiast ·*
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sadiaafsana138&color=blueviolet&style=flat&label=Profile+Views)
 </div>
