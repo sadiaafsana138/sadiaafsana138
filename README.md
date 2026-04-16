@@ -102,16 +102,6 @@
 
 ---
 
-## 🗄️ Database
-
-<div align="left">
-
-[![Distributed-Banking-Service](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Distributed-Banking-Service&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Distributed-Banking-Service)
-
-</div>
-
----
-
 ## 🎓 Academic Projects
 
 <div align="left">
@@ -121,6 +111,8 @@
 [![Banking-Service](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Banking-Service&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Banking-Service)
 [![Our-Aust-Canteen](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Our-Aust-Canteen&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Our-Aust-Canteen)
 [![Ball-catching](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Ball-catching&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Ball-catching)
+[![Distributed-Banking-Service](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Distributed-Banking-Service&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Distributed-Banking-Service)
+[![Compiler-Merged](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Compiler-Merged&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Compiler-Merged)
 
 </div>
 
@@ -137,6 +129,6 @@
 [![awesome-interview-questions](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=awesome-interview-questions&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/awesome-interview-questions)
 [![Git-Commands](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Git-Commands&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Git-Commands)
 [![Problems_JS](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Problems_JS&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Problems_JS)
-[![Compiler-Merged](https://github-readme-stats.vercel.app/api/pin/?username=sadiaafsana138&repo=Compiler-Merged&theme=tokyonight&hide_border=true)](https://github.com/sadiaafsana138/Compiler-Merged)
+
 
 </div>
