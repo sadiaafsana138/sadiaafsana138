@@ -3,14 +3,12 @@
 
   # Hi there, I'm Sadia 👋
 
-  *Data Analyst · ML Enthusiast ·*
+  *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sadiaafsana138&color=blueviolet&style=flat&label=Profile+Views)
 </div>
 
 ---
-
-**Data Analyst at iFarmer Asia Limited &nbsp;|&nbsp; Former Business Analyst at Catalyst Solutions &nbsp;|&nbsp; Prospective ML Researcher**
 
 - 🔬 Passionate about machine learning, deep learning & building data-driven solutions
 - 💼 Currently working as a Data Analyst at **iFarmer Asia Limited**
