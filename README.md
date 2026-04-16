@@ -68,16 +68,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaafsana138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafsana138&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 ## 🤖 Machine Learning & Deep Learning
 
 <div align="left">
