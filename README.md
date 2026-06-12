@@ -3,9 +3,9 @@
 
   # Hi there, I'm Shahajadi Sadia Afsana 👋
 
-  *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast · 📍 Dhaka, Bangladesh*
+  *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
 
-
+*📍 Dhaka, Bangladesh*
 ![Profile Views](https://komarev.com/ghpvc/?username=sadiaafsana138&color=blueviolet&style=flat&label=Profile+Views)
 </div>
 
