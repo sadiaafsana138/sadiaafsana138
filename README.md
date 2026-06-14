@@ -4,7 +4,7 @@
   # Hi there, I'm Shahajadi Sadia Afsana 👋
 
   *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
-  🌐 **Portfolio:** <a href="https://sadiaafsana138.github.io/">sadiaafsana138.github.io</a>
+  🌐 **[Portfolio](https://sadiaafsana138.github.io/)**
 
   *📍 Dhaka, Bangladesh*
 
