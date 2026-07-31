@@ -3,7 +3,7 @@
 
   # Hi there, I'm Shahajadi Sadia Afsana 👋
 
-*I share the knowledge I had to learn on my own and the support I once needed but never received.*
+*I share the knowledge I had to learn on my own and the support I once needed but never received.*<br>
   *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
   🌐 **[Portfolio](https://sadiaafsana138.github.io/)**
 
