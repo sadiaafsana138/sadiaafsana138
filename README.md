@@ -6,7 +6,7 @@
 **I share the knowledge I once had to figure out on my own — so others can start with confidence instead of uncertainty.**<br>
 *Always happy to connect, collaborate, and help where I can.*
 
-  *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
+  *Aspiring PhD Student · Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
   🌐 **[Portfolio](https://sadiaafsana138.github.io/)**
 
   *📍 Dhaka, Bangladesh*
